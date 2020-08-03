@@ -46,6 +46,7 @@ public class MovingForwardAndBackWardWithResult {
         // how to move to after last row location
         rs.afterLast();
 //canan
+        //canan
 
 
 
